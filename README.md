@@ -5,9 +5,9 @@ Aprender typescrit e suas caracterias para iniciar o aprendizado na versão mais
 
 ## Anotações
 
-Tipos de Dados: [tiposDados.ts](.\src\tiposDados.ts)
-Classes: [classes.ts](.\src\classes.ts)
-Generics: [classes.ts](.\src\generics.ts)
+Tipos de Dados: [tiposDados.ts](src\tiposDados.ts)
+Classes: [classes.ts](src\classes.ts)
+Generics: [classes.ts](src\generics.ts)
 
 ## Comandos terminais
 
