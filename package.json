@@ -23,6 +23,9 @@
       }
     }
   },
+  "scripts": {
+    "start": "npx tsc && node build/generics.js"
+  },
   "devDependencies": {
     "typescript": "^5.8.3"
   }
