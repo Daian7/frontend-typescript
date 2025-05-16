@@ -23,6 +23,10 @@ Rodar a configuração script/start no package.json
 
     npm run start
 
+Servidor local para DEV que entende typescript (não sendo necessário transpilar para JS)
+
+    npm install ts-node-dev -D
+
 
     
     
